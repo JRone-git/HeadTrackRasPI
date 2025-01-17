@@ -1,8 +1,8 @@
 
 
-# **MPU6050 Game Controller with Raspberry Pi Pico**
+# **MPU6050 HeadTracker with Raspberry Pi Pico**
 
-This project transforms a Raspberry Pi Pico with an MPU6050 sensor into a USB game controller, capable of simulating a joystick for games. The device uses the MPU6050’s gyroscope and accelerometer to control yaw, pitch, and roll axes. It also includes a button to center the axes.
+This project transforms a Raspberry Pi Pico with an MPU6050 sensor into a headtracker by simulating a joystick for games. The device uses the MPU6050’s gyroscope and accelerometer to control yaw, pitch, and roll axes. It also includes a button to center the axes.
 
 ---
 
