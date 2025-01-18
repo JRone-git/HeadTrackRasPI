@@ -1,4 +1,4 @@
-
+Inspiration: https://github.com/pocketmoon/MPU-6050-Arduino-Micro-Head-Tracker/tree/master/Arduino%20Library
 
 # **MPU6050 HeadTracker with Raspberry Pi Pico**
 
